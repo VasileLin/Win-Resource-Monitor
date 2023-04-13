@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbc01bfe-edcd-4d29-aca1-4a777e88e69f": {
+      "ProjectGuid": "dbc01bfe-edcd-4d29-aca1-4a777e88e69f",
+      "DisplayName": "WinMonitor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

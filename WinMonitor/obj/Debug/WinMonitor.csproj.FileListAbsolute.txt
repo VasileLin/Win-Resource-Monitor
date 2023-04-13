@@ -1,0 +1,16 @@
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\bin\Debug\WinMonitor.exe.config
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\bin\Debug\WinMonitor.exe
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\bin\Debug\WinMonitor.pdb
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\bin\Debug\MetroFramework.Design.dll
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\bin\Debug\MetroFramework.dll
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\obj\Debug\WinMonitor.WinMonitor.resources
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\obj\Debug\WinMonitor.Properties.Resources.resources
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\obj\Debug\WinMonitor.csproj.GenerateResource.cache
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\obj\Debug\WinMonitor.csproj.CoreCompileInputs.cache
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\obj\Debug\WinMonitor.csproj.CopyComplete
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\obj\Debug\WinMonitor.exe
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\obj\Debug\WinMonitor.pdb
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\obj\Debug\WinMonitor.csproj.AssemblyReference.cache
+C:\Users\VMOON\source\repos\WinMonitor\WinMonitor\obj\Debug\WinMonitor.csproj.SuggestedBindingRedirects.cache
